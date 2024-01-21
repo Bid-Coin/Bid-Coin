@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='w-96 h-96 bg-slate-400 flex justify-center items-center'>
         <Heading title='성공했다 드디어 1!!!!' />
       </div>
     </>
