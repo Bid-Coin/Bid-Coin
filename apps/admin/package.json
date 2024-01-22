@@ -11,7 +11,7 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
-    "ui": "workspace:^"
+    "@pacakage/ui": "workspace:^"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",

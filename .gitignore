@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/react,nextjs
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,nextjs
 
+/.vscode
 ### NextJS ###
 # dependencies
 /node_modules
@@ -9,7 +10,6 @@
 
 # testing
 /coverage
-
 # next.js
 /.next/
 /out/

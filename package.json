@@ -8,7 +8,8 @@
     "client": "pnpm --filter client",
     "admin": "pnpm --filter admin",
     "ui": "pnpm --filter ui",
-    "tsconfig": "pnpm --filter tsconfig"
+    "tsconfig": "pnpm --filter tsconfig",
+    "shadcn":"pnpm --filter @pacakage/shadcn"
   },
   "keywords": [],
   "author": "",
