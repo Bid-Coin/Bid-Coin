@@ -11,14 +11,19 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
     "@pacakage/ui": "workspace:^"
   },
   "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "tsconfig": "workspace:^",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
     "@vitejs/plugin-react": "^4.2.1",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
-    "vite": "^5.0.8",
-    "tsconfig": "workspace:^",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-prettier": "^5.0.1",

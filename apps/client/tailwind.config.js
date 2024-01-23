@@ -1,5 +1,5 @@
 /**  @type {import('tailwindcss').Config} */
-import config from '../../tailwind.config';
+import config from '@pacakage/ui/tailwind.config';
 
 const tlconfig = {
   ...config,

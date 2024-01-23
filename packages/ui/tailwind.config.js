@@ -4,7 +4,7 @@ import { fontFamily } from 'tailwindcss/defaultTheme';
 
 const config = {
   darkMode: ['class'],
-  content: ['./node_modules/@pacakage/ui/**/*.{ts,tsx}'],
+  content: ['../../packages/ui/src/**/*.{ts,tsx,js,jsx}'],
   theme: {
     container: {
       center: true,
