@@ -1,0 +1,27 @@
+.liveStreamWrap {
+  width: 720px;
+  height: 480px;
+}
+
+.chattingWrap {
+  width: 400px;
+  height: 520px;
+}
+
+.chattingContent {
+  height: 90%;
+}
+
+.liveDetailWrap {
+  width: 720px;
+  height: 200px;
+}
+
+.auctionWrap {
+  width: 400px;
+  height: 460px;
+}
+
+p {
+  padding-bottom: 0.5rem;
+}
