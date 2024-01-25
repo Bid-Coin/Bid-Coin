@@ -1,3 +1,3 @@
 import './index.css';
-export { Heading } from './components/Heading';
-export { Button } from './components/ui/button';
+export { Button } from './components/ui/button.tsx';
+export { Badge } from './components/ui/badge.tsx';
